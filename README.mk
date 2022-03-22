@@ -1,4 +1,4 @@
-# ReactSocailApp
+#ReactSocailApp
 在每一个子文件夹执行
 ```
 npm install
